@@ -1,5 +1,9 @@
-	body {
-  background-color: #252A42;
+body {
+	background-color: #252A42;
+	height:30px;
+	width:30px;
+	min-height:30px;
+	min-width:30px;
 }
 
 .resume-wrapper {
